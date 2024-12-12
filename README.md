@@ -1,5 +1,5 @@
 - 👋 Hi, I’m metehan
-- 👀 I’m interested in spor and software
+- 👀 I’m interested in sport and software
 - 🌱 I’m currently learning C
 
 <!---
